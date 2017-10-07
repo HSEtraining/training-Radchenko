@@ -17,5 +17,6 @@ Repo for the training
 * python
 * matlab
 * R
+* Closure
 * GIT
 
